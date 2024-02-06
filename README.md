@@ -1,9 +1,9 @@
 # Write-up-Warchall
 un compte rendu détaillé de la démarche de mes missions
 
-# Compte Rendu - Training: Warchall - The Beginning
+#  Compte Rendu - Training: Warchall - The Beginning
 
-## Introduction
+##  Introduction
 
 J'ai récemment résolu le challenge "Training: Warchall - The Beginning" dans le cadre du Warchall - Chapter I. Ce défi consistait à devenir un "linux superhacker" en créant un compte SSH et en fournissant les solutions aux niveaux 0 à 5.
 
